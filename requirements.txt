@@ -1,0 +1,10 @@
+# python version
+python_version = "3.12.0"
+
+# django version 
+django_version = "4.1.4"
+
+# Admin pannel 
+jazzmin_version = "django-jazzmin 3.0.1"
+
+
